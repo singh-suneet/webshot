@@ -4,4 +4,5 @@ Python script, using Selenium and chromedriver to take bulk screenshot of websit
 
 ver 0.1
 you need to provide input separated with spaces
-currently you can only use https or port 443
+
+Currently you can only use https or port 443
