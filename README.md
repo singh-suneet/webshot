@@ -7,3 +7,5 @@ Ver 0.1
 You need to provide input separated with spaces
 
 Currently you can only use https or port 443
+Usage:"python webshot ip1 ip2 ip3 ip4........."
+
