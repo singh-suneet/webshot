@@ -1,6 +1,6 @@
 # webshot
 Python script, using Selenium and chromedriver to take bulk screenshot of websites and save them with their url as file_name.
-
+##require selenium
 
 Ver 0.1
 
