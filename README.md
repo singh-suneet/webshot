@@ -6,7 +6,7 @@ Python script which utillises Selenium and chromedriver(or geckodriver for firef
 ## v1
 
 run "python webshot.py"
-when asket provide comma or space separated list of input.
+when prompted, provide comma or space separated list of input.
 For example: example1.com,example2.com,example3.com.......
 or
      example1.com example2.com example3.com .......             
