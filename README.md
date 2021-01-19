@@ -9,5 +9,5 @@ run "python webshot.py".\
 When prompted, provide comma or space separated list of input.\
 For example: example1.com,example2.com,example3.com.......\
 Or\
-     example1.com example2.com example3.com .......   \          
+     example1.com example2.com example3.com .......      
 >Currently scipt only gives scrrnshot on port:443 or https://
