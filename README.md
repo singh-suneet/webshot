@@ -1,11 +1,13 @@
-# webshot
-Python script, using Selenium and chromedriver to take bulk screenshot of websites and save them with their url as file_name.
-##require selenium
+# Webshot
 
-Ver 0.1
+Python script which utillises Selenium and chromedriver(or geckodriver for firefox) to take bulk screenshot of Web Interfaces of provided assets and save them with their URL as file_name.
 
-You need to provide input separated with spaces
 
-Currently you can only use https or port 443
-Usage:"python webshot.py"
+## v1
 
+run "python webshot.py"
+when asket provide comma or space separated list of input.
+For example: example1.com,example2.com,example3.com.......
+or
+     example1.com example2.com example3.com .......             
+>Currently scipt only gives scrrnshot on port:443 or https://
