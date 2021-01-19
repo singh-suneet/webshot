@@ -1,7 +1,8 @@
 # Webshot
 
 Python script which utilises Selenium and chromedriver(or geckodriver for firefox) to take bulk screenshot of Web Interfaces of provided assets and save them with their URL as file_name.
-
+>>requirements* Selenium\
+chromedriver or geckodriver
 
 ## v1
 
